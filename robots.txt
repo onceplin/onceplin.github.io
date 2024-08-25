@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onceplin.github.io/sitemap.html.gz
+Sitemap: https://onceplin.github.io/app/sitemap.html.gz
+Sitemap: https://onceplin.github.io/assets/sitemap.html.gz
+Sitemap: https://onceplin.github.io/css/sitemap.html.gz
+Sitemap: https://onceplin.github.io/includes/sitemap.html.gz
+Sitemap: https://onceplin.github.io/item/sitemap.html.gz
+Sitemap: https://onceplin.github.io/src/sitemap.html.gz
